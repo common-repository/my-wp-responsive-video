@@ -1,0 +1,25 @@
+.res_video{}
+
+/* New Shortcode CSS */
+
+.reading-box{position:relative;}
+.tagline-shadow {
+  background: url("../img/shadow-top.png") no-repeat scroll center top / cover  transparent;
+  bottom: -42px;
+  height: 42px;
+  left: 0;
+  position: absolute;
+  width: 100%;
+}
+
+.reading-box{
+	padding:28px 28px 27px 31px;
+	border-left:3px solid #a0ce4e;
+	background:#f2efef;
+	margin:0 0 84px;
+}
+#main .reading-box h2{
+	margin:0 0 7px;
+	font:18px/20px 'MuseoSlab500Regular', arial, helvetica, sans-serif;
+}
+.reading-box p{margin:0 !important;}
